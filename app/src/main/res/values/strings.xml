@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">sfx-library</string>
+    <string name="all_sfx_icon">SFX Icon</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">SFX Library and Previewer</string>
+    <string name="main_profile_btn">Profile</string>
+    <string name="main_library_btn">Library</string>
+
+    <!-- LoginActivity -->
+    <string name="login_title">LOGIN PAGE</string>
+    <string name="login_username_hint">Masukkan nama anda</string>
+    <string name="login_next_btn">Next</string>
+
+    <!-- LibraryActivity -->
+    <string name="library_action_profile">Profile</string>
+    <string name="library_action_logout">Logout</string>
+    <string name="library_item_delete_btn">Delete</string>
+
+    <!-- Detail Activity -->
+    <string name="detail_play_btn">Play SFX</string>
+
+    <!-- ProfileActivity -->
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name">Muhammad Akmal Hisyam</string>
+    <string name="profile_nim">00000040027</string>
+    <string name="profile_class">IF570-BL</string>
+    <string name="profile_reference">REFERENSI :</string>
+    <string name="profile_ref1">https://github.com/hdodenhof/CircleImageView</string>
+    <string name="profile_ref2">https://www.dicoding.com/</string>
+    <string name="profile_ref3">https://stackoverflow.com/</string>
+    <string name="profile_ref4">https://www.codepolitan.com/</string>
+</resources>
